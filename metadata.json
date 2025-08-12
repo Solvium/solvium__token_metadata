@@ -1,0 +1,13 @@
+
+{
+  "name": "Solvium AI",
+  "description": "Rewarding Puzzle Gamers",
+  "image": "https://imgur.com/z89lOqs",
+  "external_url": "https://solvium.xyz",
+  "attributes": [
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/Solvium_game"
+    }
+  ]
+}
